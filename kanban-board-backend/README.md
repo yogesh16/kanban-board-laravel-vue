@@ -99,13 +99,13 @@ with `ACCESS_TOKEN` key
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yogesh16/kanban-board-laravel-vue.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd kanban-board-backend
 ```
 
 Install dependencies

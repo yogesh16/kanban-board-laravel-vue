@@ -8,13 +8,13 @@ Kanban board Frontend build with Vue
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/yogesh16/kanban-board-laravel-vue.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd kanban-board-frontend
 ```
 
 Install dependencies
