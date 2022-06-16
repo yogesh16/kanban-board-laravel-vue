@@ -1,0 +1,26 @@
+{
+  "name": "animated-draggable-interfaces",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "core-js": "^3.6.4",
+    "lodash": "^4.17.19",
+    "tailwindcss": "^1.6.0",
+    "vue": "^2.6.11",
+    "vue-feather-icons": "^5.0.0",
+    "vue-js-modal": "^2.0.1",
+    "vuedraggable": "^2.24.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
